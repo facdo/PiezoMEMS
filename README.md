@@ -9,5 +9,8 @@ To access the potential of the PiezoMEMS chip for vibrational sensing and micro 
 ### Application Ideas
 - WSN node for monitoring roads
   - Evaluate the vibrational spectrum of vehicles passing in a road.
-  - [ ] Calculate FFT of pressure impulses with gaussian wave format. Vehicle velocity associated with the standard deviation.
-
+    - [X] Calculate FFT of pressure impulses with gaussian wave format. Vehicle velocity associated with the standard deviation.
+    - [ ] Simulate several vehicles, applying random noise to it.
+    - [ ] Define the sensor parameters, relating the sensitivity to the pressure curve.
+    - [ ] Evaluate the test cases where the sensor would work.
+    - [ ] Optimize the sensor parameters for this application.
