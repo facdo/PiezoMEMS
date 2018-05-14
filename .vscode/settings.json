@@ -2,6 +2,7 @@
     "spellright.language": "pt",
     "spellright.documentTypes": [
         "latex",
-        "plaintext"
+        "plaintext",
+        "markdown"
     ]
 }
